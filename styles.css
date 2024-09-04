@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(sources/pattern_hexagon-5_0.5_3_0-0_0_1__fffafa_006394.png);
+  background-repeat: repeat;
+}
+
+#parrafo {
+  text-align: center;
+  color: #fff;
+  text-shadow: 5px #000;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}
